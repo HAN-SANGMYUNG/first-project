@@ -9,6 +9,9 @@ Fruits_Menu = {
 }
 
 say_hi(store_name)
-
+#dasdasd
 for key, (name,fee) in Fruits_Menu.items():
     print(f"{key}. {name} - ${fee} per kg")
+
+input("input kg")
+
